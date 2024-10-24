@@ -5,7 +5,7 @@ function runner() {
   const namaAtlet = ["Rizki", "Ambar", "Rada", "Tika", "Malik", "Nanang", "Azizah"]
 
   for(let i=0; i < namaAtlet.length; i++){
-    console.log(`Atlet ${namaAtlet[i]} tinggi badannya ${tinggiBadan[i]}`)
+    console.log(`Atlet ${namaAtlet[i]} tinggi badannya ${tinggiBadan[i]}cm`)
   }
 
 
